@@ -5,26 +5,26 @@
     {
       "encoding": "application/pgp-keys",
       "type": "OpenPgpVerificationKey2019",
-      "id": "did:github:transmute-industries#kid=_kJKfZl5EiPededwEoF0mt53Z-hcRwDRkVPV1Bs7UH0",
+      "id": "did:github:transmute-industries#kid=lGkPf_KEbmpozlGW42JzCdDDgtfGP4IIPYSYPmfYGmg",
       "controller": "did:github:transmute-industries",
-      "publicKeyPem": "-----BEGIN PGP PUBLIC KEY BLOCK-----\r\nVersion: OpenPGP.js v4.4.6\r\nComment: https://openpgpjs.org\r\n\r\nxk8EXO0vChMFK4EEAAoCAwQJjb2Ip3BLLdHXfhCF+iRvDF4aeRGqfmj9IgvN\r\n4RmeZFjPumoEHHczbkXUHVvTJQi9Fgc7A+z+Wxtc+Mws6XVFzRdhbm9uIDxh\r\nbm9uQGV4YW1wbGUuY29tPsJ3BBATCAAfBQJc7S8KBgsJBwgDAgQVCAoCAxYC\r\nAQIZAQIbAwIeAQAKCRDRq8GWcCb1XCJEAP9KK7GSzEa9aQsZXuaHbgh6tYg/\r\n1wCxRON/odoUVmEplwEAxcORVqt0y7oLqObR2dFnFw8e85a/lePH0icAhHsx\r\nKAzOUwRc7S8KEgUrgQQACgIDBGMIZHYkExkO2Z4Sz3/el3GYic2/WwmaPutM\r\nxH7EdwKx+393S8teKkPxpW+eNvjSlQ1LtZKI6KtgoVLJz6oj4L0DAQgHwmEE\r\nGBMIAAkFAlztLwoCGwwACgkQ0avBlnAm9Vxm8gEAy4iloxypda6HrrtIYGIY\r\nBUdkvayZxo8Vpo1ekBXVNxkBAOo6IR8le29eyf7J7s63fd3WngQKoblOS4Yp\r\nToxzkZqp\r\n=hlPZ\r\n-----END PGP PUBLIC KEY BLOCK-----\r\n"
+      "publicKeyPem": "-----BEGIN PGP PUBLIC KEY BLOCK-----\r\nVersion: OpenPGP.js v4.4.6\r\nComment: https://openpgpjs.org\r\n\r\nxk8EXO0vihMFK4EEAAoCAwRNcPC7wn5FEIE6l7aWiKUwEsrALbJUU7e/UwzA\r\nTDFD5KLQRYHR4Cu5e+bqPZeaqC91dW7c3FXuUeIxv/bTxPnyzRdhbm9uIDxh\r\nbm9uQGV4YW1wbGUuY29tPsJ3BBATCAAfBQJc7S+KBgsJBwgDAgQVCAoCAxYC\r\nAQIZAQIbAwIeAQAKCRBbaElASQN2OYkrAQDYOoO+7/D7wEOBpn5fyAiqzE6t\r\nVigOek8tUTkGgvC7swEAjUJmJv+taZSX3yqiVP+2sWs49gieQdywy9cID2sg\r\ntGDOUwRc7S+KEgUrgQQACgIDBBYagCtqAuMFvAaxBAeJnmdSme7z3jtklGNn\r\n2jeeVjTEJzXGBGxYvBfFjvIvQ5segR4HwrhlJujjcp1ea5QjYe0DAQgHwmAE\r\nGBMIAAkFAlztL4oCGwwACgkQW2hJQEkDdjnQqQDyA2ylDp0x3L+UTnLEixoJ\r\nGvmlva68i7nI+sivSJvhXgEAr7RUhG4R855KDYdH2NiZfGgxs4+aV9pWTDgs\r\nwvd8SJ4=\r\n=1yho\r\n-----END PGP PUBLIC KEY BLOCK-----\r\n"
     },
     {
       "encoding": "application/pgp-keys",
       "type": "OpenPgpVerificationKey2019",
-      "id": "did:github:transmute-industries#kid=BVhZBXmIkMTrOBZp1JQ-NN1huR8oJWocDEuYU5XpneI",
+      "id": "did:github:transmute-industries#kid=_WqY5niqw92EbLL4HKhbRmFCb1rsMxuGtKTAio64hqA",
       "controller": "did:github:transmute-industries",
-      "publicKeyPem": "-----BEGIN PGP PUBLIC KEY BLOCK-----\r\nVersion: OpenPGP.js v4.4.6\r\nComment: https://openpgpjs.org\r\n\r\nxk8EXO0vChMFK4EEAAoCAwTGlH3PutXXRIbFHDpiWzbe6LIHFLsmi0beSzqE\r\n5eJK9IDgtbNhjioqTA+ra2TgVcUcU0qmlrR5vLCJmcXfXv9IzRdhbm9uIDxh\r\nbm9uQGV4YW1wbGUuY29tPsJ3BBATCAAfBQJc7S8KBgsJBwgDAgQVCAoCAxYC\r\nAQIZAQIbAwIeAQAKCRDdT15+96IZmMlAAP9jzyBvUsIuXrh+zfwaJrO+6lE9\r\n2s/b5xm+dLXPeuQgngD9GZKfPvBZzbj0zrsDuIb7VRF+F780D8KC2aNa74Cc\r\nUovOUwRc7S8KEgUrgQQACgIDBBeevS4wX0dcpCTUC4yvdkHFuoLe7QRBruAr\r\nNymDChpq+80DuweyRlGBS+8MX9WA2/ipAIkesPoGDIcfF9RgrjwDAQgHwmEE\r\nGBMIAAkFAlztLwoCGwwACgkQ3U9efveiGZhtMgEAvkSyv0s5tRfPDZGykCzS\r\nh7TJQ8lUSm9YGK3ijWEbBnYBAM4E7UHo89HdgB5WB6yPv22qGzRL7cy4TxSA\r\nSUTglPP1\r\n=vsLe\r\n-----END PGP PUBLIC KEY BLOCK-----\r\n"
+      "publicKeyPem": "-----BEGIN PGP PUBLIC KEY BLOCK-----\r\nVersion: OpenPGP.js v4.4.6\r\nComment: https://openpgpjs.org\r\n\r\nxk8EXO0vihMFK4EEAAoCAwQ+gnh4FhoPO+q6wp0bgm66dywYYDpCJoZ8Bz9p\r\npkEyfY6e8/ulRCX8RJdEJwtG7iNZYPQTM0Z7pO1ERpVadY7PzRdhbm9uIDxh\r\nbm9uQGV4YW1wbGUuY29tPsJ3BBATCAAfBQJc7S+KBgsJBwgDAgQVCAoCAxYC\r\nAQIZAQIbAwIeAQAKCRD5HY6gX5If7uubAQCTP1f28XmOHAnZ/mtV27VlHSvz\r\noVrpC6oFUITT+cYYoQEAuPThRbq4mgOw/rJ7tWeQSPE56GajB2vjRGoYWWKQ\r\nY5rOUwRc7S+KEgUrgQQACgIDBJh071pzcX/fK9Ln+rLdZK7V9GFeuNED7UC/\r\nfSKUwmQb8NDoGP6BOqJpdFPGsHsIqGc9bqXtQAi9m9i96k3a2noDAQgHwmEE\r\nGBMIAAkFAlztL4oCGwwACgkQ+R2OoF+SH+5HJQD/R+d80kxlk8htkOD2xJnH\r\nm+TksEzz+63LZN52mr6gYSEBAM1Unqi2TJ+gOx4QfiuA/zgXWIMuEgStUuIb\r\nfMxmoMM9\r\n=OyUl\r\n-----END PGP PUBLIC KEY BLOCK-----\r\n"
     }
   ],
   "authentication": [],
   "service": [],
   "proof": {
     "type": "OpenPgpSignature2019",
-    "creator": "did:github:transmute-industries#kid=_kJKfZl5EiPededwEoF0mt53Z-hcRwDRkVPV1Bs7UH0",
+    "creator": "did:github:transmute-industries#kid=lGkPf_KEbmpozlGW42JzCdDDgtfGP4IIPYSYPmfYGmg",
     "domain": "GitHubDID",
-    "nonce": "1e60df54a379b2cd70914cf83857c8f6",
-    "created": "2019-05-28T12:52:26.955Z",
-    "signatureValue": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.4.6\r\nComment: https://openpgpjs.org\r\n\r\nwl4EARMIAAYFAlztLwsACgkQ0avBlnAm9VxE0gEA/47nObh/p63qvq1qam0t\r\nxdpW49nGCcetjb0MkN/RHV8BAJuVIrYCy52hFSTMdyZ+cCh975DRd+GoWmc8\r\nu2UvJxYy\r\n=UbHt\r\n-----END PGP SIGNATURE-----\r\n"
+    "nonce": "072100e262355ef208dbc38aefa93fa8",
+    "created": "2019-05-28T12:54:34.724Z",
+    "signatureValue": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.4.6\r\nComment: https://openpgpjs.org\r\n\r\nwl4EARMIAAYFAlztL4sACgkQW2hJQEkDdjkHBAD/UiyV0/jwn94wRX9jaY0N\r\n8RVXCo8cOozkvDJGfxzUYLMA/0JlqUql6o6j4rFkk9DOKV/AGunU2+ZjgWID\r\nK8iYVIDj\r\n=e1RE\r\n-----END PGP SIGNATURE-----\r\n"
   }
 }
