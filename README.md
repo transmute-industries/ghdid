@@ -1,1 +1,1 @@
-# [did:github:transmute-industries](https://raw.githubusercontent.com/transmute-industries/ghdid/master/index.jsonld)
+# [did:github:OR13](https://raw.githubusercontent.com/OR13/ghdid/master/index.jsonld)
